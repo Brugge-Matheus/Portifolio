@@ -29,4 +29,10 @@
 - `background-color`, `color`: para definir cores dos elementos e a parte do fundo deles  
 - `@import url`: usei para importar a fonte global do meu site  
 - `font-size`, `font-family`: definir o tamanho da letra e a fonte dela (utilizei a que importei no escopo global)  
-- `gap`: aplicar espaço entre elementos de uma `div`  
+- `gap`: aplicar espaço entre elementos de uma `div`
+
+---
+
+### Link do GitHub
+
+[https://github.com/Babiak0/Prova-projeto](https://github.com/Brugge-Matheus/Portifolio)
